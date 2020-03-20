@@ -1,5 +1,7 @@
 package br.com.mpx.fundacao;
 
+import br.com.mpx.entidade.Pessoa;
+
 public class AtribuicaoValorReferencia {
 	public static void main(String[] args) {
 		//Tipos primitivos, sempre atribuição por valor
